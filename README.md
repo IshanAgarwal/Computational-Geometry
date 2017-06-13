@@ -1,2 +1,2 @@
 # Computational-Geometry
-Stuff from the computational geometry course and project stuff as well
+Contains coursework project work and other related material
